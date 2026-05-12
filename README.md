@@ -24,6 +24,7 @@ The dashboard analyzes:
 
 ## Dataset
 IBM HR Analytics Employee Attrition Dataset
+Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Dashboard Preview
 <img width="1888" height="847" alt="Dashboard" src="https://github.com/user-attachments/assets/d25b6082-1389-4398-b90b-b9307d6c1242" />
